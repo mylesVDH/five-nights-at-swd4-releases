@@ -105,6 +105,19 @@
 
 ---
 
+## 🧪 3D VERSION (PREVIEW – EXPERIMENTAL)
+
+There is also an early **3D version** of the game – a separate download, **not** an update of the normal game.
+
+[![Download the 3D preview](https://img.shields.io/badge/3D%20PREVIEW-Download%20(.exe)-6a3ad0?style=for-the-badge&logo=windows&logoColor=white)](../../releases/download/3d-preview-1/Five.Nights.at.SWD4s.3D.preview.exe)
+
+- Windows only. Walk around the office and the school in 3D, with a new character (Mika ten Hake).
+- It has its own save (your normal save is copied the first time, never changed) and does **not** update itself.
+- Co-op only works with another player who has the **same 3D preview**.
+- See the [3D preview release](../../releases/tag/3d-preview-1) for everything that's in it.
+
+---
+
 ## 🔄 Updates
 
 You only download the game **once**. From version 5.4 on (Windows) and 5.6 on (Mac), the game updates itself:
